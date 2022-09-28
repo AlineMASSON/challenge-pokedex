@@ -6,4 +6,4 @@ Réalisation de la liste des pokémons, d'une page détail par pokemon et mise e
 
 ## :computer: Résultat
 
-[Voir le resultat :sparkles:](https://alinemasson.github.io/challenge-pokedex/ "alinemasson.github.io/challenge-pokedex/")
+Git clone pour voir le resultat :sparkles:
